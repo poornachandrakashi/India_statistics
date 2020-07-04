@@ -1,0 +1,14 @@
+voila==0.1.21
+voila-material==0.1.21
+Covid
+numpy
+ipywidgets
+plotly
+matplotlib
+IPython
+seaborn
+ipywidgets
+BeautifulSoup4
+requests
+pandas
+tabulate
